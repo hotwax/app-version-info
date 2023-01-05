@@ -1,5 +1,5 @@
 {
-  "name": "app-version-info",
+  "name": "@hotwax/app-version-info",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
