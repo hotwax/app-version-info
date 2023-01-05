@@ -23,9 +23,5 @@
   "bugs": {
     "url": "https://github.com/hotwax/app-version-info/issues"
   },
-  "homepage": "https://github.com/hotwax/app-version-info#readme",
-  "devDependencies": {
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1"
-  }
+  "homepage": "https://github.com/hotwax/app-version-info#readme"
 }
